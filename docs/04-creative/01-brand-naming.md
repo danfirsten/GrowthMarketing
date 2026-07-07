@@ -19,20 +19,25 @@
 | 5 | **No trademark collision** in software/education (USPTO class 9/42) | Avoid a forced rename later |
 | 6 | **Short** — ideally ≤ 3 syllables | Fits app icon, ad copy, memory |
 
-## Candidates (generate → verify → decide)
+## Round 1 — rejected (2026-07-07)
 
-These are starting candidates that lean into the product's actual differentiator — *a complete study kit, generated from your lecture*:
+User verdict on the kit-family slate: **Studykit = too basic/unmemorable; Lectio/Recapio/Kramd/Swotly = too obscure; kit-family overall = focuses on the artifact, not the studying.** Calibration: the name should be **memorable and rooted in student/study culture** — a name students would actually say to each other.
 
-| Candidate | Angle | Notes |
-|-----------|-------|-------|
-| **Studykit** (studykit.ai / getstudykit.com) | Literal — it IS the product | Strongest category scent; "kit" is the differentiator vs. flashcard-only rivals. Check collisions. |
-| **Cramkit** | Exam-crunch energy, students self-ID as crammers | Edgier; may skew "last-minute" (fine for ads, maybe limits pro/serious segment) |
-| **Lectio** | Latin "reading/lecture," clean + brandable | Less obvious meaning; check existing edu products |
-| **Recapio** | "Recap" + friendly suffix | Says summarization more than full kit |
-| **Kramd / Swotly** | Brandable, UK "swot" = study hard | Radio-test risk on spelling |
-| **NoteToKit / Kitify** | Verb-y, describes the transformation | Kitify likely collides (Shopify ecosystem) |
+Verified kills from rounds 1–2 (don't revisit):
+- **Lock In / Locked In** — the slang is perfect but the name is crowded: multiple focus/blocker apps own it ([Lock In](https://apps.apple.com/us/app/lock-in-focus-app-blocker/id6472232979), [Locked-In](https://apps.apple.com/us/app/locked-in/id6503163623), [Study & Work Timer: Lock In](https://apps.apple.com/us/app/study-work-timer-lock-in/id6745751608)). **Use "lock in" freely in ad copy/hooks instead.**
+- **Ace family (Aced, Acely, AceIt)** — [Acely](https://acely.com/) is an established AI test-prep brand in-category. Confusing similarity + trademark risk.
+- **Cram family (CramLab, Cramkit, …)** — [cramlab.org](https://www.cramlab.org/) exists; space saturated ([Cram.com](https://www.cram.com/), [ExamCram](https://www.examcram.app/), [Cramify](https://cramify.ai/)). Also cram = last-minute framing, which undercuts the spaced-repetition retention story.
 
-**My lean: a "kit"-family name.** "Kit" is the honest differentiator — every competitor makes *notes or flashcards*; you generate the *whole kit*. It also gives the brand a natural visual/verbal system (kit = box, contents, checklist) that a designer can run with.
+## Round 2 — current slate (verified via SERP search; user still runs the full checklist on the finalist)
+
+| Candidate | Why it fits | Trade-offs / risks |
+|-----------|-------------|-------------------|
+| **StudySesh** ⭐ | Real student slang ("study sesh") — warm, memorable, says exactly what it is, zero obscurity for 17–24. **SERP came back clean** — no significant product owns it. Natural ad copy: "your whole study sesh, generated in 60 seconds." | Casual register (fine for students, slightly light for MCAT/bar preppers). Verify app stores + domain (studysesh.com / .app). |
+| **Etched** | "Etched into memory" — universal phrase, outcome-focused (retention = the spaced-repetition story), short, distinctive, sounds premium. | Slightly abstract; needs the tagline to carry category scent ("Etched — lectures that stick"). Verify collisions. |
+| **Sponge** | "Be a sponge / soak it up" — visual metaphor everyone gets, mascot potential = organic TikTok gold (the Duolingo playbook). | Sponge (UK) is an existing corporate-elearning company — same trademark class; needs a real check. Category scent is metaphorical, not literal. |
+| **Clutch** | Student slang: being "clutch" when it counts = exam-day energy. Punchy, confident. | "Clutch" is widely used across industries (clutch.co B2B reviews, auto apps); SERP contested. Medium risk. |
+
+**My lean: StudySesh** — it's the only one that's simultaneously memorable, unmistakably about studying, culturally native to the audience, *and* verified ownable. Etched is the premium dark-horse if StudySesh feels too casual.
 
 ## Verification checklist (do before committing — ~30 min, you must do these; I can't check domain registrars)
 
