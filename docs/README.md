@@ -35,6 +35,7 @@ The master index. `docs/` is designed to read like a book, worked through in ord
 - [06.0 Stack Overview](06-automation/stack-overview.md) — all systems, ranked by ROI
 - [06.1 Build Spec: Reporting Dashboard](06-automation/01-reporting-dashboard.md)
 - [06.2 Build Spec: AI-Assisted Creative Pipeline](06-automation/02-creative-pipeline.md)
+- [06.3 Build Spec: Social Content Engine](06-automation/03-social-content-engine.md) — organic IG/TikTok/X: create+publish+reply automation, engagement bots explicitly excluded
 
 ## 07 — Resources
 - [07.1 Resource Shortlist](07-resources/shortlist.md) — high-signal only + an overrated/avoid list

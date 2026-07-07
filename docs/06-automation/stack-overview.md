@@ -12,10 +12,11 @@
 | 2 | **AI-Assisted Creative Pipeline** | Brand guide as structured data → generates hook/angle/script variations → assembles ad drafts for review. Attacks the #1 2026 bottleneck: creative *volume*. | ⭐⭐⭐⭐⭐ | Weeks 5–10 (once you know your winning angles). Spec: [`02-creative-pipeline.md`](02-creative-pipeline.md) |
 | 3 | **Server-Side Tracking / CAPI Layer** | Robust Pixel + Conversions API with high Event Match Quality, dedup, offline/CRM events. Better data = cheaper CPMs. | ⭐⭐⭐⭐ | Week 2 (do a basic version early; harden later) |
 | 4 | **Creative Testing Harness** | Programmatically launches structured creative tests via the Marketing API, enforces clean methodology, logs results to `08-experiments/`. | ⭐⭐⭐⭐ | Weeks 9–12+ (once testing cadence is high) |
-| 5 | **Ad-Library Swipe & Competitor Monitor** | Scrapes/queries the Meta Ad Library for competitors' long-running (= winning) ads; builds a searchable swipe file. | ⭐⭐⭐ | Anytime — cheap, great for creative inspiration |
-| 6 | **Automated Rules & Budget Manager** | Marketing-API scripts to pause losers, scale winners within guardrails, alert on anomalies. | ⭐⭐⭐ | When spending enough that daily manual ops hurt |
-| 7 | **LTV / Cohort & Economics Model** | Pipes purchase data into cohort LTV, payback period, contribution-margin models to govern scale decisions. | ⭐⭐⭐ | When you have repeat-purchase / retention data |
-| 8 | **Landing Page / Funnel A-B Framework** | Reusable page framework with built-in variant testing and event tracking. | ⭐⭐ | When landing-page CVR becomes the bottleneck |
+| 5 | **Social Content Engine** | Repurposes ad creative into organic IG/TikTok/X posts, auto-publishes via scheduler API, AI-drafts replies (human-approved). **Never** automates engagement on others' content (ban + Business-Manager cascade risk). | ⭐⭐⭐ | Phase 0 (buy scheduler) now; build weeks 9–12 if organic earns it. Spec: [`03-social-content-engine.md`](03-social-content-engine.md) |
+| 6 | **Ad-Library Swipe & Competitor Monitor** | Scrapes/queries the Meta Ad Library for competitors' long-running (= winning) ads; builds a searchable swipe file. | ⭐⭐⭐ | Anytime — cheap, great for creative inspiration |
+| 7 | **Automated Rules & Budget Manager** | Marketing-API scripts to pause losers, scale winners within guardrails, alert on anomalies. | ⭐⭐⭐ | When spending enough that daily manual ops hurt |
+| 8 | **LTV / Cohort & Economics Model** | Pipes purchase data into cohort LTV, payback period, contribution-margin models to govern scale decisions. | ⭐⭐⭐ | When you have repeat-purchase / retention data |
+| 9 | **Landing Page / Funnel A-B Framework** | Reusable page framework with built-in variant testing and event tracking. | ⭐⭐ | When landing-page CVR becomes the bottleneck |
 
 ## Why these two are first
 

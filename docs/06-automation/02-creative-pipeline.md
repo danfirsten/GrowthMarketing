@@ -11,7 +11,7 @@ Do **not** automate end-to-end publishing. The pipeline generates *drafts*; your
 ## Inputs
 - **Brand guide as structured data** (`brand.yaml`/`brand.json`): voice/tone, value props, target personas, forbidden claims/compliance rules, proof points/testimonials, product facts, visual guidelines.
 - **Winning-angle library**: angles/hooks that have tested well (fed back from [`08-experiments/`](../08-experiments/) — closes the loop).
-- **Swipe file / references** (optional): competitor and inspiration ads (from the Ad-Library monitor, system #5).
+- **Swipe file / references** (optional): competitor and inspiration ads (from the Ad-Library monitor, system #6).
 - **A generation brief**: "produce N concepts for persona X around angle Y in format Z."
 
 ## Outputs

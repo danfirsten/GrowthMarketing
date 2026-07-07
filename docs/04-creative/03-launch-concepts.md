@@ -48,7 +48,7 @@
 - **Body:** casual confession-cam: "It takes the lecture, makes the notes, the flashcards, quizzes me before exams... like office hours, whenever." Show 2–3s of product. CTA: "Meet your pocket TA — free."
 - **Why it might win:** builds the brand while it sells; if this angle wins, the name compounds every future ad. ⚠️ Testimonial framing must be honest — script it as *your own* founder usage ("I built this because...") until real user quotes exist.
 
-## C6 — "You skipped. Your TA didn't." (skipped-class angle · founder's pick)
+## C6 — "You skipped class. Your TA didn't." (skipped-class angle · founder's pick)
 
 - **Angle:** you skipped the lecture (or zoned out, or watched none of the recordings) — and you can still be ready. Guilt-relief. **Audience it finds:** the huge silent segment that's behind on lectures; crammers with a backlog.
 - **Origin:** user's line — *"Just because you skipped class doesn't mean you have to miss class."* Sharpened for a 3-second hook (the skip/miss echo reads as a riddle on first pass; hooks must resolve instantly).
