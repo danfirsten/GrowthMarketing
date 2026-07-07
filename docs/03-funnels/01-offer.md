@@ -1,17 +1,17 @@
-# 03.1 — FlowZone: Offer & Positioning
+# 03.1 — PocketTA: Offer & Positioning
 
 > The #1 lever in the whole system ([why](../00-roadmap/skills-gap-analysis.md#1-offer--positioning-design-)). This defines *what* you're selling and *to whom* before we spend a cent on traffic. Built on the `$100M Offers` value-equation. Confirmed product; economics assumptions flagged for you to fill from real data.
 
 ## The product (ground truth from the repo)
-Paste a YouTube lecture or transcript → FlowZone auto-generates a **complete study kit**: structured notes (with AI diagrams), flashcards with spaced repetition (SM-2), quizzes, AI-graded short-answer questions, a printable study guide, and a glossary. Web app + Chrome extension. **Free: 10 kits/mo · Pro $9/mo: 300 kits/mo + AI diagrams + longer sources.**
+Paste a YouTube lecture or transcript → PocketTA auto-generates a **complete study kit**: structured notes (with AI diagrams), flashcards with spaced repetition (SM-2), quizzes, AI-graded short-answer questions, a printable study guide, and a glossary. Web app + Chrome extension. **Free: 10 kits/mo · Pro $9/mo: 300 kits/mo + AI diagrams + longer sources.**
 
 ## The value equation (Hormozi)
 
 > Value = (Dream Outcome × Perceived Likelihood of Achievement) ÷ (Time Delay × Effort & Sacrifice)
 
-FlowZone scores well on all four — the offer's job is to *make that obvious* in the ad and on the page:
+PocketTA scores well on all four — the offer's job is to *make that obvious* in the ad and on the page:
 
-| Lever | FlowZone's strength | How we sell it |
+| Lever | PocketTA's strength | How we sell it |
 |---|---|---|
 | **Dream outcome** | Ace the exam / actually learn / stop drowning in lectures | Lead with the outcome, not the features: "Ace it," not "AI notes generator" |
 | **Perceived likelihood** | Kit is built from *your* lecture; real study science (spaced repetition) | Proof: demo on a real lecture, testimonials, grade screenshots, "SM-2, the algorithm Anki uses" |
@@ -24,7 +24,7 @@ FlowZone scores well on all four — the offer's job is to *make that obvious* i
 
 **Against the alternatives** (this is the real positioning battle):
 - **vs. taking your own notes** → 100× faster, and you get flashcards + quizzes you'd never make by hand.
-- **vs. ChatGPT** → purpose-built and *structured*: one paste yields a full kit (notes + flashcards + quiz + spaced-repetition review), no prompting, no copy-pasting fragments, with built-in review scheduling. ChatGPT gives you a wall of text; FlowZone gives you a study *system*.
+- **vs. ChatGPT** → purpose-built and *structured*: one paste yields a full kit (notes + flashcards + quiz + spaced-repetition review), no prompting, no copy-pasting fragments, with built-in review scheduling. ChatGPT gives you a wall of text; PocketTA gives you a study *system*.
 - **vs. Quizlet** → auto-generated from *your* source material (not someone else's decks), and it's the whole kit, not just flashcards.
 - **vs. the AI study-tool field** (verified July 2026 — this category is *crowded*: [Mindgrasp](https://www.mindgrasp.ai/), [NoteGPT](https://notegpt.io/), [Turbo AI](https://www.turbo.ai/), [RemNote](https://www.remnote.com/), StudyFetch $9.99/mo, Laxu AI $4.99/mo, Knowt free) → the crowd validates demand but kills generic messaging. **"AI notes/flashcards" is table stakes; don't lead with it.** The defensible wedge: **completeness** (the *whole* kit incl. AI diagrams, graded short-answers, printable guide) + the **one-paste YouTube flow** via the extension. Pricing note: at $9/mo you're at the top of the field with cheaper/free rivals below — the offer must justify it on completeness, or pricing may need revisiting once conversion data lands.
 
@@ -73,7 +73,7 @@ At $9/mo, **LTV is dominated by churn**, and student churn is a real risk (subsc
 - **Funnel archetype:** direct-to-signup PLG → `ad → landing page → free signup → activate (first kit) → Pro upgrade`.
 - **Ad conversion event:** CompleteRegistration (free signup) — cheap enough to exit Meta's learning phase on $20/day.
 - **The real scoreboard:** signup → activation → Pro. Track all three ([05-analytics](../05-analytics/)).
-- Next docs: `02-landing-page.md` (FlowZone landing/conversion) and `04-email-sequence.md` (activation + upgrade nurture).
+- Next docs: `02-landing-page.md` (PocketTA landing/conversion) and `04-email-sequence.md` (activation + upgrade nurture).
 
 ---
 **Related:** [product strategy](../00-roadmap/product-strategy.md) · [90-day plan](../00-roadmap/90-day-plan.md) · [skills gap: offer](../00-roadmap/skills-gap-analysis.md#1-offer--positioning-design-)

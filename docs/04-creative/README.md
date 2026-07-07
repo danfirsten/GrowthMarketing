@@ -11,7 +11,7 @@ Key vocabulary you'll build out:
 - **Concept vs. variant** — a new concept is a new idea; a variant is a tweak. Meta punishes lazy variants (same image, new text = higher CPMs). Ship concepts.
 
 ## Docs here
-- [`01-brand-naming.md`](01-brand-naming.md) — renaming FlowZone: verdict, candidates, verification checklist ✅
+- [`01-brand-naming.md`](01-brand-naming.md) — renaming PocketTA: verdict, candidates, verification checklist ✅
 - [`02-brand-design-brief.md`](02-brand-design-brief.md) — self-contained work order for a Claude session to produce the full brand identity (guide + `brand.yaml` + assets) ✅
 - `brand/` — the brand identity itself (produced by executing the brief)
 - [`03-launch-concepts.md`](03-launch-concepts.md) — the 5 creative concepts for launch campaign #1, with production checklist ✅

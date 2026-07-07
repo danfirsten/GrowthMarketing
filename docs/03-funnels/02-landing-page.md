@@ -1,4 +1,4 @@
-# 03.2 — FlowZone Landing Page: Conversion Plan
+# 03.2 — PocketTA Landing Page: Conversion Plan
 
 > The page's one job: turn an ad click into a **free signup**. Every point of conversion rate here directly divides your CAC ([why](../01-foundations/growth-marketing-map.md#where-the-leverage-actually-is-ranked)). The app already has a Next.js site — this is the spec to optimize/adjust it *before* traffic arrives, not a rebuild.
 

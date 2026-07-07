@@ -35,7 +35,7 @@ Create a `docs/04-creative/brand/` folder containing:
 
 ### A. `brand-guide.md` — the human-readable brand book
 1. **Brand strategy** — mission (1 line), promise, 3 messaging pillars (speed / completeness / actually-learn-it), elevator pitch, boilerplate paragraph.
-2. **Verbal identity** — voice & tone (with a "sounds like / never sounds like" table + 5 rewritten example lines), tagline + 3 alternates, naming conventions for features (what do we call a "study kit", "review session", etc. — consistency matters in UI and ads), copy do's/don'ts (e.g., never promise grades/outcomes — ad-policy risk; say "study faster", not "get an A guaranteed").
+2. **Verbal identity** — voice & tone (with a "sounds like / never sounds like" table + 5 rewritten example lines), tagline + 3 alternates (candidates to consider: "Your TA, in your pocket" · "You skipped the lecture. Your TA didn't." — note: the founder likes the skipped-class direction; keep it as *campaign* language, not the master tagline, since the master tagline must also serve serious test-preppers), naming conventions for features (what do we call a "study kit", "review session", etc. — consistency matters in UI and ads), copy do's/don'ts (e.g., never promise grades/outcomes — ad-policy risk; say "study faster", not "get an A guaranteed").
 3. **Visual identity** —
    - **Logo direction:** wordmark-first (solo dev, no budget for custom marks) + a simple geometric icon usable as favicon/app icon/extension icon at 16px. Describe construction; provide SVG if capable.
    - **Color palette:** primary, secondary, 2 accents, neutrals — **with exact hex values**, usage ratios, and WCAG AA contrast pairs checked. Must pop on both white (landing) and dark (Reels) backgrounds.

@@ -8,7 +8,7 @@ The master index. `docs/` is designed to read like a book, worked through in ord
 - [00.1 Skills Gap Analysis](00-roadmap/skills-gap-analysis.md) — the 7 skills to build, ranked by leverage
 - [00.2 90-Day Plan](00-roadmap/90-day-plan.md) — week-by-week, learning-by-doing, with hard milestones
 - [00.3 Progress Log](00-roadmap/progress.md) — updated every session; **read first when resuming**
-- [00.4 Product Strategy](00-roadmap/product-strategy.md) — FlowZone (paid) vs. MunchMatch (organic): where the budget goes and why
+- [00.4 Product Strategy](00-roadmap/product-strategy.md) — PocketTA (paid) vs. MunchMatch (organic): where the budget goes and why
 
 ## 01 — Foundations
 - [01.1 The Growth Marketing Map](01-foundations/growth-marketing-map.md) — the master mental model (read this first)
@@ -18,7 +18,7 @@ The master index. `docs/` is designed to read like a book, worked through in ord
 
 ## 03 — Funnels
 - [Overview + archetypes](03-funnels/README.md) — offer, landing pages, lead magnets, email
-- [03.1 FlowZone: Offer & Positioning](03-funnels/01-offer.md) — the #1 lever, built on the value equation ✅
+- [03.1 PocketTA: Offer & Positioning](03-funnels/01-offer.md) — the #1 lever, built on the value equation ✅
 - [03.2 Landing Page Conversion Plan](03-funnels/02-landing-page.md) — message match, anatomy, CVR benchmarks, test queue ✅
 
 ## 04 — Creative
@@ -29,7 +29,7 @@ The master index. `docs/` is designed to read like a book, worked through in ord
 
 ## 05 — Analytics
 - [Overview + economics vocabulary + 2026 tracking reality](05-analytics/README.md) — CAC/LTV, pixel/CAPI
-- [05.2 FlowZone Tracking Spec: Pixel + CAPI](05-analytics/02-pixel-and-capi.md) — event schema, identity plumbing, EMQ, implementation plan ✅
+- [05.2 PocketTA Tracking Spec: Pixel + CAPI](05-analytics/02-pixel-and-capi.md) — event schema, identity plumbing, EMQ, implementation plan ✅
 
 ## 06 — Automation
 - [06.0 Stack Overview](06-automation/stack-overview.md) — all systems, ranked by ROI

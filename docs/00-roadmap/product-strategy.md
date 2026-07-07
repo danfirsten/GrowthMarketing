@@ -1,10 +1,10 @@
-# 00.4 — Product Strategy: FlowZone vs. MunchMatch
+# 00.4 — Product Strategy: PocketTA vs. MunchMatch
 
 > Two real products, two *completely different* growth motions. This doc decides where the paid budget goes and why. Written 2026-07-07, Session 2.
 
 ## TL;DR
 
-- **FlowZone → primary paid-marketing vehicle.** Put the $1,200 and the [90-day plan](90-day-plan.md) behind it. It has real monetization ($9/mo), a clean conversion event, a targetable audience (students), and a **time-sensitive back-to-school window** (Aug–Sep). This is where you learn paid social.
+- **PocketTA → primary paid-marketing vehicle.** Put the $1,200 and the [90-day plan](90-day-plan.md) behind it. It has real monetization ($9/mo), a clean conversion event, a targetable audience (students), and a **time-sensitive back-to-school window** (Aug–Sep). This is where you learn paid social.
 - **MunchMatch → organic / content / ASO play. Zero paid budget** until it has a monetization model. It's a virality-driven consumer app, not a paid-acquisition business. You'll still learn a second, valuable growth motion — for free.
 - **Don't split the $1,200.** Focus beats dilution for a learner. One product, done well, teaches more than two done shallowly.
 
@@ -18,7 +18,7 @@ monetization model → you can estimate LTV → spend CAC < LTV → scale
 
 Break the chain anywhere and paid spend is just setting money on fire. Scoring both:
 
-| Criterion | FlowZone | MunchMatch |
+| Criterion | PocketTA | MunchMatch |
 |---|---|---|
 | Has a revenue model | ✅ $9/mo Stripe subscription | ❌ none in the repo |
 | Can compute LTV | ✅ yes (churn × $9) | ❌ no → **paid ads recoup $0** |
@@ -28,11 +28,11 @@ Break the chain anywhere and paid spend is just setting money on fire. Scoring b
 | Audience targetable on Meta | ✅ students, exam-preppers, lifelong learners | ⚠️ "hungry people in groups" — everyone, i.e. no one |
 | Timing edge right now | 🔥 back-to-school in ~6–8 weeks | neutral |
 
-**Verdict:** FlowZone passes the filter cleanly. MunchMatch fails the monetization gate — which means paid is premature, *not* that the product is bad.
+**Verdict:** PocketTA passes the filter cleanly. MunchMatch fails the monetization gate — which means paid is premature, *not* that the product is bad.
 
 ---
 
-## FlowZone — the paid-social play
+## PocketTA — the paid-social play
 
 **What it is:** Paste a YouTube lecture or transcript → AI generates structured notes (with diagrams), flashcards with spaced repetition, quizzes, AI-graded short-answers, a printable study guide, and a glossary. Web app + Chrome extension. Free (10 kits/mo) / **Pro $9/mo** (300 kits/mo + AI diagrams).
 
@@ -84,21 +84,21 @@ Once you can estimate revenue-per-user from real match/booking data, *then* revi
 
 *Other models considered and set aside for now:* freemium premium features (cleaner LTV, revisit if affiliate revenue is too thin), restaurant-side featured listings (marketplace — needs scale first), in-app ads (weak until large).
 
-**What you learn from it (for free):** ASO, organic short-form content, virality/invite-loop design, and community launches — a whole second growth toolkit that complements the paid skills FlowZone teaches.
+**What you learn from it (for free):** ASO, organic short-form content, virality/invite-loop design, and community launches — a whole second growth toolkit that complements the paid skills PocketTA teaches.
 
 ---
 
 ## The decision
 
-- **FlowZone** is the subject of the [90-day plan](90-day-plan.md) and the [experiments log](../08-experiments/). The $1,200 goes here. Offer written up next in [`03-funnels/01-offer.md`](../03-funnels/README.md).
+- **PocketTA** is the subject of the [90-day plan](90-day-plan.md) and the [experiments log](../08-experiments/). The $1,200 goes here. Offer written up next in [`03-funnels/01-offer.md`](../03-funnels/README.md).
 - **MunchMatch** gets an organic-growth track (its own docs when we start it), no paid budget, and a **monetization decision** as the gating first step.
-- **Focus:** run FlowZone paid as the main learning loop; layer MunchMatch organic content in as a lighter parallel track. Don't dilute the paid budget across both.
+- **Focus:** run PocketTA paid as the main learning loop; layer MunchMatch organic content in as a lighter parallel track. Don't dilute the paid budget across both.
 
 ## Open questions
 
-1. **Are both deployed/live yet?** FlowZone needs to be live (Supabase + Vercel + Stripe) before we can send it traffic. MunchMatch needs to be in the App/Play stores for organic to matter.
+1. **Are both deployed/live yet?** PocketTA needs to be live (Supabase + Vercel + Stripe) before we can send it traffic. MunchMatch needs to be in the App/Play stores for organic to matter.
 2. **MunchMatch monetization** — which model (freemium / affiliate / other)? Gates any future paid consideration.
-3. **Confirm the focus:** all-in on FlowZone for the paid track (recommended), or do you want to split attention?
+3. **Confirm the focus:** all-in on PocketTA for the paid track (recommended), or do you want to split attention?
 
 ---
 **Related:** [90-day plan](90-day-plan.md) · [foundations map](../01-foundations/growth-marketing-map.md) · [progress log](progress.md)

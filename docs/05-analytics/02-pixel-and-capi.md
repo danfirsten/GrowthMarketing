@@ -1,6 +1,6 @@
-# 05.2 — FlowZone Tracking Spec: Pixel + Conversions API
+# 05.2 — PocketTA Tracking Spec: Pixel + Conversions API
 
-> Build this **during/right after deploy, before any ad spend**. In 2026, CAPI is required infrastructure — browser-only tracking misses 20–35% of conversions; server-side pushes match to 95%+, which means Meta optimizes on real data and your CPMs drop. This is pure software, i.e., your moat. It fits FlowZone's exact stack (Next.js on Vercel + Supabase + Stripe).
+> Build this **during/right after deploy, before any ad spend**. In 2026, CAPI is required infrastructure — browser-only tracking misses 20–35% of conversions; server-side pushes match to 95%+, which means Meta optimizes on real data and your CPMs drop. This is pure software, i.e., your moat. It fits PocketTA's exact stack (Next.js on Vercel + Supabase + Stripe).
 
 ## Event schema (the funnel, instrumented)
 
@@ -11,7 +11,7 @@
 | First kit generated | `Activation` (custom) | first successful generate | **CAPI only** (server, in the generate route) | The activation moment; best predictor of Pro conversion; later, optimize campaigns on this |
 | Pro subscription | `Subscribe` (or `Purchase`, value=9, currency=USD) | **Stripe webhook** `checkout.session.completed` | **CAPI only** (server) | The money event; feeds value optimization later |
 
-**Principles:** browser-visible events fire from **both** Pixel and CAPI with a shared `event_id` (dedup); server-truth events (activation, subscription) fire **CAPI-only** from the backend where they actually happen. The Stripe webhook is already "the only writer of a user's plan" in FlowZone's architecture — it's also the only honest source of `Subscribe`.
+**Principles:** browser-visible events fire from **both** Pixel and CAPI with a shared `event_id` (dedup); server-truth events (activation, subscription) fire **CAPI-only** from the backend where they actually happen. The Stripe webhook is already "the only writer of a user's plan" in PocketTA's architecture — it's also the only honest source of `Subscribe`.
 
 ## Identity plumbing (this is what makes EMQ high)
 

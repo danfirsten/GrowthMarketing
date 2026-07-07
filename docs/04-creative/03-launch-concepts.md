@@ -48,11 +48,22 @@
 - **Body:** casual confession-cam: "It takes the lecture, makes the notes, the flashcards, quizzes me before exams... like office hours, whenever." Show 2–3s of product. CTA: "Meet your pocket TA — free."
 - **Why it might win:** builds the brand while it sells; if this angle wins, the name compounds every future ad. ⚠️ Testimonial framing must be honest — script it as *your own* founder usage ("I built this because...") until real user quotes exist.
 
+## C6 — "You skipped. Your TA didn't." (skipped-class angle · founder's pick)
+
+- **Angle:** you skipped the lecture (or zoned out, or watched none of the recordings) — and you can still be ready. Guilt-relief. **Audience it finds:** the huge silent segment that's behind on lectures; crammers with a backlog.
+- **Origin:** user's line — *"Just because you skipped class doesn't mean you have to miss class."* Sharpened for a 3-second hook (the skip/miss echo reads as a riddle on first pass; hooks must resolve instantly).
+- **Format:** 9:16 Reel; opens on a full "Lecture 1–17 (unwatched)" playlist — instantly relatable dread.
+- **Hook:** **"You skipped the lecture. Your TA didn't."**
+- **Body:** paste the recording → kit generates → flick through notes/flashcards. Overlay: "17 unwatched lectures → 17 study kits." CTA: "Catch up free."
+- **Alt hooks to test as variants if the angle wins:** "Went to zero lectures. Ready for the final anyway." · "Skip class, not the material." · the original long line as landing-page sub-headline.
+- **Why it might win:** names a behavior nobody admits but everybody does; strong guilt-relief emotion; name-aligned (the TA showed up for you).
+- **⚠️ Positioning guardrail:** this is an *ad angle*, not the brand tagline — branding the whole product around skipping class narrows out the serious/high-LTV preppers (C4's audience) and invites the "AI = cutting corners" frame with schools. Run it as one concept among six; let the data decide how big this segment is.
+
 ---
 
-## Production checklist (target: all 5 shot/assembled in one weekend)
-- [ ] 1 clean screen-recording session of the real product on a real lecture (fuels C1, C3, C5 b-roll)
-- [ ] Phone selfie footage: C2 POV, C5 confession-cam (you, or a student friend on camera)
+## Production checklist (target: all 6 shot/assembled in one weekend)
+- [ ] 1 clean screen-recording session of the real product on a real lecture (fuels C1, C3, C5, C6 b-roll)
+- [ ] Phone selfie footage: C2 POV, C5 confession-cam (you, or a student friend on camera); unwatched-playlist screenshot for C6
 - [ ] Statics for C4 (+ a static fallback of C1: before/after screenshot) in Canva
 - [ ] Captions burned in (85%+ watch muted), first frame readable as a still
 - [ ] Each ad URL tagged `utm_content=c1…c5` ([tracking spec](../05-analytics/02-pixel-and-capi.md))
