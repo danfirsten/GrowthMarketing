@@ -39,6 +39,22 @@ Verified kills from rounds 1–2 (don't revisit):
 
 **My lean: StudySesh** — it's the only one that's simultaneously memorable, unmistakably about studying, culturally native to the audience, *and* verified ownable. Etched is the premium dark-horse if StudySesh feels too casual.
 
+## Round 3 — user counter-proposals, verified (2026-07-07)
+
+User proposed: Lock In (likes), ClutchTA, ProfessorNotes AI, **StudyBuddy (likes a lot)**. Verdicts:
+
+- **StudyBuddy — hard kill.** The most-taken name in the category: [studybuddy.ai](https://studybuddy.ai/), [studybuddy.gg](https://www.studybuddy.gg/), 4+ mobile apps, plus Mindgrasp's "AI Study Buddy" SEO page. *Lesson recorded: a name that "feels natural" is usually generic — familiarity is evidence it's already claimed.* Unfindable + untrademarkable.
+- **Clutch family (incl. ClutchTA) — kill.** [Study Clutch](https://studyclutch.com/) is an existing AI note-taker/flashcard/quiz app — exact category. ClutchTA itself was clean, but "Clutch" next to Study Clutch = permanent confusion.
+- **ProfessorNotes AI — kill.** Too long (user agrees), "AI" suffix dated, "Notes" undersells the kit, generic construction = weak mark.
+- **Lock In — advise against as name, keep as ad language.** Not a legal dead-end (existing Lock In apps are timers/blockers) but a *discovery* dead-end: app-store and Google searches surface them, not us, forever. The slang goes into hooks: "POV: finals week. Lock in."
+- **Signal from user's picks:** drawn to **companion framing** (buddy, TA) + **student slang** (lock in, clutch). TA-as-positioning is a keeper regardless of name.
+- **New candidate from the TA lane: PocketTA** — "your TA, in your pocket." Verified clean SERP. Companion-framed, category-scented, memorable, ownable. US-college-native ("TA" = teaching assistant).
+
+## Finalists (user picks one, then runs the full checklist)
+
+1. **PocketTA** — companion/TA positioning the user gravitates to; clean.
+2. **StudySesh** — slang-native, says what it is; clean.
+
 ## Verification checklist (do before committing — ~30 min, you must do these; I can't check domain registrars)
 
 For each finalist:
