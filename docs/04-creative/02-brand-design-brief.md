@@ -8,7 +8,7 @@
 
 **The product:** A web app + Chrome extension for students. Paste a YouTube lecture or transcript → AI generates a **complete study kit** in ~60 seconds: structured notes (with AI-drawn diagrams), flashcards with spaced repetition (SM-2 — same algorithm as Anki), quizzes, AI-graded short-answer questions, a printable study guide, and a glossary. **Free tier:** 10 kits/month. **Pro ($9/mo):** 300 kits/mo, AI diagrams, longer sources.
 
-**The name:** Currently "FlowZone" — being renamed (SEO/trademark conflict with an established sprayer brand). **Confirm the final name with the user before producing any deliverable.** If undecided, help finalize using the criteria in the naming doc, then proceed.
+**The name: PocketTA** — "your TA, in your pocket" (chosen 2026-07-07, replacing "FlowZone"; see [01-brand-naming.md](01-brand-naming.md)). **Confirm with the user that the verification checklist (domain/USPTO/app stores) passed before producing deliverables.** If it failed, the fallback is **StudySesh**. The companion/TA framing is core to the brand regardless: PocketTA is a *companion, not a tool* — warm, college-native, competent. Lean into TA-culture verbal territory (office hours, review sessions, "your TA has notes ready").
 
 **One-liner / positioning:** *Turn any lecture into a complete study kit in 60 seconds.*
 - **vs. manual notes:** 100× faster, plus flashcards/quizzes you'd never make by hand.

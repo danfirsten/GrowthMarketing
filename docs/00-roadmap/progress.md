@@ -14,10 +14,15 @@
 - **Critical path now:** (1) **USER: pick the new name** (gates brand, domain, ad accounts — checklist in naming doc) · (2) **USER: deploy the app** (Supabase+Vercel+Stripe) · (3) execute brand brief (any Claude session) · (4) implement tracking spec during deploy · (5) creative concepts → launch. Target: live + testing creative by early August (back-to-school peak Aug–Sep).
 - **Note for future sessions:** user may continue on a **different Claude account** — every work order must stay self-contained in files (the brand brief is the template for this).
 
-## Open questions
+- **Session 4 (2026-07-07):** ✅ **NAME DECIDED: PocketTA** ("your TA, in your pocket"; fallback StudySesh) — user running the verification checklist. Killed with evidence across 3 rounds: kit-family, Lock In (→ ad copy instead), Ace/Acely, Cram family, StudyBuddy (5+ existing products), Clutch family (Study Clutch exists), ProfessorNotes AI. Wrote [launch creative concepts C1–C5](../04-creative/03-launch-concepts.md) + first experiment file [`2026-08-launch-campaign-01.md`](../08-experiments/2026-08-launch-campaign-01.md) (planned: $20/day, ≤$5/signup win bar, kill-switches preset). Brand brief now names PocketTA. **Deliberately NOT mass-renamed FlowZone→PocketTA in older docs until checklist passes.**
 
-1. **New product name** — user verifying candidates (domain/USPTO/SERP checks in the [naming doc](../04-creative/01-brand-naming.md)).
-2. Once live: real free→Pro rate, churn, cost-per-free-user for the economics table in [`03-funnels/01-offer.md`](../03-funnels/01-offer.md).
+## Open questions / gates
+
+1. **USER: PocketTA verification checklist** (domain, USPTO, app stores, radio test) — then: register domain/socials, mass-rename docs+repo, execute brand brief.
+2. **USER: deploy the app** + implement [tracking spec](../05-analytics/02-pixel-and-capi.md).
+3. **USER: shoot/assemble C1–C5** ([production checklist](../04-creative/03-launch-concepts.md)) — one weekend.
+4. Then: Meta Business Manager setup → launch [experiment #1](../08-experiments/2026-08-launch-campaign-01.md) (early August). **Ad account + spend = propose-and-approve.**
+5. Once live: real free→Pro rate, churn, cost-per-free-user for the economics table in [`03-funnels/01-offer.md`](../03-funnels/01-offer.md).
 
 ## Session log
 

@@ -23,8 +23,9 @@ The master index. `docs/` is designed to read like a book, worked through in ord
 
 ## 04 — Creative
 - [Overview + why it's the 2026 lever](04-creative/README.md) — hooks, angles, formats, testing
-- [04.1 Brand Naming](04-creative/01-brand-naming.md) — rename FlowZone: verdict + candidates + checklist ✅
+- [04.1 Brand Naming](04-creative/01-brand-naming.md) — **DECIDED: PocketTA** (pending checklist); full 3-round history ✅
 - [04.2 Brand Design Brief](04-creative/02-brand-design-brief.md) — self-contained work order for the full brand identity ✅
+- [04.3 Launch Creative Concepts](04-creative/03-launch-concepts.md) — the 5 concepts for campaign #1 + production checklist ✅
 
 ## 05 — Analytics
 - [Overview + economics vocabulary + 2026 tracking reality](05-analytics/README.md) — CAC/LTV, pixel/CAPI

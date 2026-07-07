@@ -1,6 +1,13 @@
 # 04.1 — Brand Naming: Renaming FlowZone
 
-> Decision doc, 2026-07-07. **Verdict: rename before deploying.** The name is the one brand asset that's nearly free to change today and brutally expensive to change after launch.
+> Decision doc, 2026-07-07.
+>
+> ## ✅ DECISION: **PocketTA** — "your TA, in your pocket"
+> Chosen 2026-07-07 after 3 rounds (history below). **Pending: user runs the verification checklist** (domain, USPTO TESS, app stores, radio test). If a check fails, fall back to **StudySesh** (runner-up, also verified clean at SERP level).
+> Positioning carried by the name: companion, not tool — a TA explains, quizzes you, and preps your materials, which is exactly the product and supports the $9/mo price.
+> Rollout once checklist passes: register domain + socials → rename repo/app strings/metadata → brand brief executes under PocketTA.
+
+**Original verdict: rename before deploying.** The name is the one brand asset that's nearly free to change today and brutally expensive to change after launch.
 
 ## Why "FlowZone" fails (verified via search)
 
